@@ -1,0 +1,8 @@
+Admin:
+username: admin
+password: admin 
+pswd in encrypted form: (21232f297a57a5a743894a0e4a801fc3)
+
+emp id:
+email: rajat9258@gmail.com
+pswd: qwerty
